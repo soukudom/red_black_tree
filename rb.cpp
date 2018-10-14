@@ -1091,9 +1091,7 @@ int main(int argc, char ** argv){
     cout << "*********************** dalsi" << endl;
 
 
-
-
-     x.insert(a,CValue());
+    x.insert(a,CValue());
     x.insert(a,z);
     x.insert(c,CValue());
     x.remove(a);
