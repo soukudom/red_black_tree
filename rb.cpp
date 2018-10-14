@@ -1104,9 +1104,6 @@ int main(int argc, char ** argv){
 
     //bool y = x.isElem(c);
 
-
-
-
 /*    CValue y(3);
     if(x == y){
         cout << "ano" << endl;
