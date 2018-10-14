@@ -47,7 +47,6 @@ class NotFoundException {
       //bool operator > ( const CKey &i ) const;
       bool operator >= ( const CKey &i ) const;
       //bool operator <= ( const CKey &i ) const;
-
   };
   #endif  /* __PROGTEST__*/
 
