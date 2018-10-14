@@ -12,7 +12,6 @@ class NotFoundException {
     friend ostream& operator<<(ostream& os, const NotFoundException& e ) {os << "Value not found" ;return os;}
 };
 
-
   class CValue
   {
     //private:
